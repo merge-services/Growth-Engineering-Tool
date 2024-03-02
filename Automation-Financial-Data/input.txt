@@ -1,0 +1,1025 @@
+48
+Global Collect MolesMontebelluna IT --> Outside Service
+49
+Advertising
+50
+Auto - Wash
+51
+Personal
+52
+Dues and Subscriptions - Membership
+53
+Auto - Fuel
+54
+Auto - Fuel
+55
+Dues and Subscriptions - Membership
+56
+Auto - Video Rental
+57
+Meals
+58
+Dues and Subscriptions - Membership
+59
+Travel
+60
+Auto - Fuel
+61
+Auto - Fuel
+62
+Auto - Purchase
+63
+Advertising
+64
+Dues and Subscriptions - Membership
+65
+Advertising
+66
+Auto - Fuel
+67
+AutoPay
+68
+Personal
+69
+Personal
+70
+Advertising
+71
+Retail - Dillard's
+72
+Personal
+73
+Meals
+74
+Auto - Fuel
+75
+Advertising
+76
+Local Transportation
+77
+Clothing - ZARA
+78
+Travel
+79
+Auto - Fuel
+80
+Advertising
+81
+Auto - Fuel
+82
+Dues and Subscriptions - Membership
+83
+Personal
+84
+Sports - Hockey
+85
+Auto - Purchase
+86
+Personal
+87
+Accounting
+88
+Online Shopping
+89
+Advertising
+90
+Local Transportation
+91
+Sports - Hockey
+92
+Grocery
+93
+Accounting
+94
+Bank Charges
+95
+Online Shopping
+96
+Meals
+97
+Personal
+98
+Accounting
+99
+Travel
+100
+Bank Rewards
+101
+Auto - Fuel
+102
+Auto - Fuel
+103
+Accounting
+104
+Auto - Warranty
+105
+Auto-Warranty
+106
+Advertising
+107
+Travel
+108
+Auto - Fuel
+109
+Auto - Fuel
+110
+PayPal
+111
+Dues and Subscriptions - Membership
+112
+Auto - Fuel
+113
+Dues and Subscriptions - Membership
+114
+Advertising
+115
+Auto - Fuel
+116
+Meals
+117
+Auto - Video Rental
+118
+Travel
+119
+Travel
+120
+Auto - Fuel
+121
+Auto - Insurance
+122
+Insurance - Health
+123
+Meals
+124
+Accounting
+125
+Property - Purchase
+126
+Personal
+127
+Travel
+128
+Auto - Purchase
+129
+Hotel Expense
+130
+Travel
+131
+Travel
+132
+Travel
+133
+Accounting
+134
+Travel
+135
+Personal - Loan
+136
+Accounting
+137
+Meals
+138
+Advertising
+139
+Accounting
+140
+Personal
+141
+Clothing
+142
+Auto - Purchase
+143
+Medical - Pharmacy
+144
+Medical - Pharmacy
+145
+Advertising
+146
+Personal
+147
+Retail - Clothing
+148
+Retail - Clothing
+149
+Travel
+150
+Bank Charges
+151
+Travel
+152
+Meals
+153
+Online Purchase
+154
+Accounting
+155
+Travel
+156
+Meals
+157
+Auto - Fuel
+158
+Personal
+159
+Beauty Box
+160
+Auto - Fuel
+161
+Auto - Fuel
+162
+Dues and Subscriptions - Membership
+163
+Medical - Pharmacy
+164
+Local Transportation
+165
+Auto - Fuel
+166
+Accounting
+167
+Advertising
+168
+Auto - Fuel
+169
+Auto - Fuel
+170
+Travel
+171
+Travel
+172
+Travel
+173
+Restaurant
+174
+Auto - Fuel
+175
+Auto - Wash
+176
+Auto - Fuel
+177
+Auto - Fuel
+178
+Auto - Purchase
+179
+Auto - Fuel
+180
+Auto - Purchase
+181
+Personal
+182
+Travel
+183
+Travel
+184
+Travel
+185
+Travel
+186
+Meals
+187
+Auto - Fuel
+188
+Auto - Fuel
+189
+Investment.
+190
+Auto - Fuel
+191
+Personal
+192
+Auto - Fuel
+193
+Auto - Fuel
+194
+Auto - Fuel
+195
+Dues and Subscriptions - Membership
+196
+Meals
+197
+Auto - Fuel
+198
+Auto - Fuel
+199
+Auto - Pay
+200
+Accounting
+201
+Dues and Subscriptions - Membership
+202
+Auto - Fuel
+203
+Advertising
+204
+Auto - Fuel
+205
+Travel
+206
+Advertising
+207
+Advertising
+208
+Auto - Wash
+209
+Auto - Fuel
+210
+Auto - Fuel
+211
+Auto - Fuel
+212
+Personal
+213
+Personal - Services
+214
+Personal
+215
+Auto - Fuel
+216
+Auto - Purchase
+217
+Online Shopping
+218
+Auto - Purchase
+219
+Auto - Fuel
+220
+Auto - Fuel
+221
+Insurance - Health
+222
+Restaurant - Gregorys Coffee
+223
+Auto - Purchase
+224
+Meals
+225
+Accounting
+226
+Personal
+227
+Bank Charges
+228
+Auto - Purchase
+229
+Meals
+230
+Travel
+231
+Travel
+232
+Auto - Fuel
+233
+Auto - Fuel
+234
+Beauty and Salon Services
+235
+Dues and Subscriptions - Membership
+236
+Travel
+237
+Restaurant
+238
+Accounting
+239
+Accounting
+240
+Travel
+241
+Auto - Fuel
+242
+Dues and Subscriptions - Membership
+243
+Local Transportation
+244
+Personal
+245
+Insurance
+246
+Restaurant & Dining
+247
+AutoPay
+248
+Travel
+249
+Advertising
+250
+Advertising
+251
+Meals
+252
+Auto - Fuel
+253
+Accounting
+254
+Personal
+255
+Accounting
+256
+Local Transportation
+257
+Auto - Fuel
+258
+Auto - Fuel
+259
+Accounting
+260
+Auto - Purchase
+261
+Auto - Fuel
+262
+Auto - Fuel
+263
+Auto - Fuel
+264
+Auto - Fuel
+265
+Auto - Fuel
+266
+Advertising
+267
+Local Transportation
+268
+Bank Charges
+269
+Services - Dry Cleaning
+270
+Clothing - Retail Stores
+271
+Personal
+272
+Retail - Saks Fifth Avenue
+273
+Clothing/Hair/Apparel
+274
+Transportation
+275
+Auto - Fuel
+276
+Bank Charges
+277
+Accounting
+278
+Insurance - Health
+279
+Auto - Fuel
+280
+Auto - Purchase
+281
+Travel
+282
+Accounting
+283
+AutoPay
+284
+Auto - Fuel
+285
+Dues and Subscriptions - Membership
+286
+Advertising
+287
+Grocery/Shopping
+288
+Groceries
+289
+Accounting
+290
+Auto - Repairs
+291
+Accounting
+292
+Insurance - Vendor Name (Payout)
+293
+Travel
+294
+Bank Charges
+295
+Personal
+296
+Accounting
+297
+Auto - Fuel
+298
+Personal
+299
+Meals
+300
+Hair and Beauty
+301
+Personal
+302
+Advertising
+303
+Auto - Purchase
+304
+Auto - Fuel
+305
+Meals
+306
+Accounting
+307
+Health
+308
+Dues and Subscriptions - Membership
+309
+Auto - Fuel
+310
+Meals
+311
+Meals
+312
+Meals
+313
+Accounting
+314
+Dues and Subscriptions - Membership
+315
+Personal
+316
+Dues and Subscriptions - Network
+317
+Accounting
+318
+Bank Charges
+319
+Personal
+320
+Meals
+321
+Meals
+322
+Afterpay
+323
+Bank Charges
+324
+Local Transportation
+325
+Travel
+326
+Travel
+327
+Personal
+328
+Travel
+329
+Local Transportation
+330
+Travel
+331
+Retail - Boots UK
+332
+Personal
+333
+Personal - Club
+334
+Travel
+335
+Local Transportation
+336
+Local Transportation
+337
+Accounting
+338
+Meals
+339
+Personal
+340
+Advertising
+341
+Medical - Dermatologist
+342
+Local Transportation
+343
+Travel
+344
+Travel
+345
+Accounting
+346
+Bank Charges
+347
+Local Transportation
+348
+Auto - Fuel
+349
+ZARA WHITE CITY WESTLONDON GB
+350
+Personal
+351
+Travel
+352
+Auto - Fuel
+353
+Auto - Fuel
+354
+Travel
+355
+Personal - Club
+356
+Auto - Fuel
+357
+Auto - Fuel
+358
+Personal
+359
+Local Transportation
+360
+Personal
+361
+Personal
+362
+Personal - Club
+363
+Auto - Fuel
+364
+Meals
+365
+Dues and Subscriptions - Membership
+366
+Advertising
+367
+Clothing
+368
+Afterpay
+369
+Food and Dining
+370
+Meals
+371
+Travel
+372
+Bank Charges
+373
+Auto - Fuel
+374
+Personal
+375
+Personal
+376
+Auto - Fuel
+377
+Food and Beverage
+378
+Meals
+379
+Travel
+380
+Personal
+381
+Auto - Fuel
+382
+Auto - Fuel
+383
+Meals
+384
+Bank Charges
+385
+Auto - Wash
+386
+Auto - Fuel
+387
+Advertising
+388
+Meals
+389
+Food and Beverage
+390
+Accounting
+391
+Personal
+392
+Office Expense
+393
+Advertising
+394
+Travel
+395
+Bank Charges
+396
+Travel
+397
+AutoPay Payment
+398
+Travel
+399
+Dues and Subscriptions - Membership
+400
+Travel
+401
+Travel
+402
+Travel
+403
+Travel
+404
+Travel
+405
+Travel
+406
+Travel
+407
+Personal
+408
+Dues and Subscriptions - Membership
+409
+Local Transportation
+410
+Travel
+411
+Travel
+412
+Travel
+413
+Local Transportation
+414
+Advertising
+415
+Travel
+416
+Auto - Fuel
+417
+Auto - Fuel
+418
+Auto - Purchase
+419
+Automatic Withdrawal
+420
+Travel
+421
+Auto - Fuel
+422
+Travel
+423
+Advertising
+424
+Restaurant - Meals
+425
+Travel
+426
+Travel
+427
+Travel
+428
+Auto - Fuel
+429
+Dues and Subscriptions - Membership
+430
+Travel
+431
+Travel
+432
+Transportation
+433
+Auto - Fuel
+434
+Meals
+435
+Meals
+436
+Auto - Purchase
+437
+Auto - Fuel
+438
+Local Transportation
+439
+Advertising
+440
+Subscriptions - Membership
+441
+Advertising
+442
+Auto - Fuel
+443
+Auto - Wash
+444
+Travel
+445
+Dues and Subscriptions - Membership
+446
+Local Transportation
+447
+Meals
+448
+Auto - Fuel
+449
+Auto - Fuel
+450
+Auto - Fuel
+451
+Personal
+452
+Meals
+453
+Auto - Fuel
+454
+Travel
+455
+Accounting
+456
+Meals
+457
+Mobile Payment
+458
+Auto - Fuel
+459
+Late Fee
+460
+Retail - Department Store
+461
+Dues and Subscriptions - Membership
+462
+Personal
+463
+Advertising
+464
+Personal
+465
+Advertising
+466
+Payments received
+467
+Advertising
+468
+Bank Rewards
+469
+Advertising
+470
+Bank Rewards
+471
+Accounting
+472
+Bank Charges
+473
+Bank Rewards
+474
+Computer and Software
+475
+Bank Rewards
+476
+Afterpay
+477
+Advertising
+478
+Interest Expense
+479
+Paypal
+480
+Advertising
+481
+Insurance - Vendor Name (Payout)
+482
+Advertising
+483
+Interest Expense
+484
+Bank Rewards
+485
+Bank Rewards
+486
+Merchant Service Fee
+487
+Bank Rewards
+488
+Advertising
+489
+Interest Expense
+490
+Merchant Service Fee
+491
+Bank Rewards
+492
+Accounting
+493
+Advertising
+494
+Bank Charges
+495
+Interest Expense
+496
+Merchandise Services Fee
+497
+Advertising
+498
+Bank Rewards
+499
+Retail - Clothing
+500
+Advertising
+501
+Interest Expense
+502
+Bank Rewards
+503
+Auto - Fuel
+504
+Dues and Subscriptions - Membership
+505
+Computer and Software
+506
+Insurance - Vendor Name (Payout)
+507
+Bank Rewards
+508
+Auto - Fuel
+509
+Bank Charges
+510
+Advertising
+511
+Accounting
+512
+Insurance
+513
+Online Store
+514
+Meals
+515
+Meals
+516
+Bank Charges
+517
+Clothing
+518
+Meals
+519
+Pet Expenses
+520
+Food and Beverage
+521
+Postage
+522
+Clothing/Apparel
+523
+Check
+524
+Meals
+525
+Meals
+526
+Meals
+527
+Restaurant - Fast Food
+528
+Medical - Pharmacy
+529
+Utilities
+530
+Personal
+531
+Accounting
+532
+Personal
+533
+Meals
+534
+Food and Beverage
+535
+Travel
+536
+Personal
+537
+Personal
+538
+PayPal
+539
+Venmo
+540
+Venmo
+541
+Meals
+542
+Pet and Animal Expenses
+543
+Personal
+544
+Auto - Fuel
+545
+Medical
+546
+Bank Charges
+547
+Meals
+548
+Personal
+549
+Restaurant - Meals
+550
+Meals
+551
+Bank Rewards
+552
+Bank Charges
+553
+Food and Beverage
+554
+Advertising
+555
+Medical - Pharmacy
+556
+Meals
+557
+Bank Charges
+558
+Bank Charges
+559
+Savings
+
