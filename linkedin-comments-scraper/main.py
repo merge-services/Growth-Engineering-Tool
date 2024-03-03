@@ -96,7 +96,7 @@ password.send_keys(linkedin_password)
 sign_in_button = driver.find_element(By.XPATH, Config["sign_in_button_xpath"])
 sign_in_button.click()
 
-tim.sleep(20)
+# tim.sleep(20)
 driver.get(post_url)
 
 print("Loading comments :", end=" ", flush=True)
@@ -133,13 +133,14 @@ bs_obj = BSoup(driver.page_source, "html.parser")
 comments = bs_obj.find_all("span", {"class": Config["comment_class"]})
 comments = [comment.get_text(strip=True) for comment in comments]
 
+
 headlines = bs_obj.find_all("span", {"class": Config["headline_class"]})
 headlines = [headline.get_text(strip=True) for headline in headlines]
 
 emails = extract_emails(comments)
 
 names = bs_obj.find_all("span", {"class": Config["name_class"]})
-names = [name.get_text(strip=True).split("\n")[0] for name in names]
+names = [name.get_text(strip=True).split("\n")[0].split(" ")[0] for name in names]
 
 BASE_URL = "https://www.linkedin.com/"
 

@@ -125,7 +125,7 @@ def write_data2csv(
         names, profile_links, avatars, headlines, emails, comments
     ):
         writer.writerow(
-            [name, profile_link, avatar, headline, email, comment.encode("utf-8")]
+            [name, profile_link, avatar, headline, email, comment]
         )
         # utf-8 encoding helps to deal with emojis
 
