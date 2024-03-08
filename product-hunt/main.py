@@ -13,7 +13,7 @@ import re
 import os
 
 
-### SETTINGS
+### SETTINGS ===================
 use_product_hunt = False
 links = ['snackpass.co']
 
@@ -33,6 +33,8 @@ product_heads_keywords = [
         "VP of product",
         "product"
         ]
+
+### END SETTINGS ===================
 
 if use_product_hunt:
     URL = "https://www.producthunt.com/categories/team-collaboration"
