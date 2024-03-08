@@ -15,6 +15,7 @@ import os
 
 ### SETTINGS ===================
 use_product_hunt = False
+product_hunt_url = "https://www.producthunt.com/categories/team-collaboration"
 links = ['snackpass.co']
 
 use_limit = False
@@ -37,7 +38,7 @@ product_heads_keywords = [
 ### END SETTINGS ===================
 
 if use_product_hunt:
-    URL = "https://www.producthunt.com/categories/team-collaboration"
+    URL = product_hunt_url
 
     chrome_options = Options()
     chrome_options.add_argument("--auto-open-devtools-for-tabs")
